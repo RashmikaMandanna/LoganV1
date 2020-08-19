@@ -1,6 +1,6 @@
 # Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nitin1818/HarukaAya/tree/Nitin1818-update-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 ---
 # Loganbot
 
